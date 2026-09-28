@@ -1,0 +1,16 @@
+# Données (trop volumineuses / sensibles pour git)
+data/raw/*.csv
+data/processed/*.csv
+
+# Modèles entraînés
+models/*.pkl
+models/*.joblib
+
+# Environnement Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
