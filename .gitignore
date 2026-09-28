@@ -1,5 +1,6 @@
 # Données (trop volumineuses / sensibles pour git)
 data/raw/*.csv
+data/raw/*.csv.zip
 data/processed/*.csv
 
 # Modèles entraînés
