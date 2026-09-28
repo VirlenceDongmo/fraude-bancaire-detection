@@ -1,0 +1,24 @@
+{
+  "nom_dataset": "Credit Card Fraud Detection",
+  "source": "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud",
+  "fournisseur": "Worldline et ULB Machine Learning Group",
+  "date_collecte": "2026-09-28T06:31:43",
+  "fichier": "creditcard.csv",
+  "taille_octets": 150828752,
+  "sha256": "76274b691b16a6c49d3f159c883398e03ccd6d1ee12d9d8ee38f4b4b98551a89",
+  "nb_lignes": 284807,
+  "nb_colonnes": 31,
+  "nb_fraudes": 492,
+  "taux_fraude_pct": 0.1727,
+  "controles_qualite": {
+    "284 807 lignes": true,
+    "31 colonnes": true,
+    "Noms de colonnes conformes": true,
+    "Toutes les colonnes sont numériques": true,
+    "Aucune valeur manquante": true,
+    "Class ne contient que 0 et 1": true,
+    "492 fraudes": true,
+    "Amount jamais négatif": true,
+    "Time compris entre 0 et 172 792 s (48 h)": true
+  }
+}
