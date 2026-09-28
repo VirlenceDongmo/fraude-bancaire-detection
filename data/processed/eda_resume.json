@@ -1,0 +1,34 @@
+{
+  "date_analyse": "2026-09-28T14:04:46",
+  "nb_lignes": 284807,
+  "nb_fraudes": 492,
+  "taux_fraude_pct": 0.1727,
+  "valeurs_manquantes": 0,
+  "nb_doublons": 1081,
+  "montant": {
+    "moyenne_normale": 88.29,
+    "moyenne_fraude": 122.21,
+    "mediane_normale": 22.0,
+    "mediane_fraude": 9.25,
+    "maximum": 25691.16
+  },
+  "variables_les_plus_correlees_avec_class": {
+    "V17": -0.3265,
+    "V14": -0.3025,
+    "V12": -0.2606,
+    "V10": -0.2169,
+    "V16": -0.1965,
+    "V3": -0.193
+  },
+  "figures": [
+    "01_repartition_classes.png",
+    "02_montants.png",
+    "03_taux_fraude_par_montant.png",
+    "04_analyse_temporelle.png",
+    "05a_variables_discriminantes.png",
+    "05b_distributions_top6.png",
+    "06_correlation_avec_cible.png",
+    "07_matrice_correlation.png",
+    "08_separabilite.png"
+  ]
+}
